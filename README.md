@@ -28,4 +28,4 @@ Setelah bot terinstal, Anda bisa menggunakan beberapa perintah untuk berinteraks
 
 ### **1️⃣ Jalankan Perintah Berikut di VPS:**  
 ```bash
-wget -q -O go.sh https://raw.githubusercontent.com/svnpro/bot-setup/main/go.sh && chmod +x go.sh && ./go.sh
+
